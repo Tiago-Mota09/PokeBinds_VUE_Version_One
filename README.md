@@ -16,6 +16,8 @@ Teste para Binds. Sistema conectado com a API PokeApi que exibe lista completa d
 
 Clique na imagem para abrir o site utilizando o Vercel!
 
+Obs: Ao rodar o projeto será exibida uma versão com CSS atualizada, exibindo um novo Background-color, assim como links para minhas redes sociais, esses detalhes não rodam pelo Readme devido a limitação e inconpatibilidade da plataforma e linguagem Marckdown.
+
 ## 🤔 Como executar o Projeto? 
 
 ### Requisitos
