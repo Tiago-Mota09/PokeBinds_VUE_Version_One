@@ -10,7 +10,7 @@ Teste para Binds. Sistema conectado com a API PokeApi que exibe lista completa d
 
 ## 🌐 Resultado
 
-<a href="https://github.com/Tiago-Mota09/PokeBinds_VUE_Version_One/blob/main/src/assets/picture.png">
+<a href="https://pokedex-vuejs-kappa.vercel.app/">
   <img src="src/assts/picture.png" width="75%" />
 </a>
 
