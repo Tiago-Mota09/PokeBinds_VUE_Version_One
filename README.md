@@ -11,7 +11,7 @@ Teste para Binds. Sistema conectado com a API PokeApi que exibe lista completa d
 ## 🌐 Resultado
 
 <a href="https://pokedex-vuejs-kappa.vercel.app/">
-  <img src="github/Tiago-Mota09/PokeBinds_VUE_Version_One/src/assets/picture.png" width="75%" />
+  <img src="PokeBinds_VUE_Version_One/src/assets/picture.png" width="75%" />
 </a>
 
 Clique na imagem para abrir o site utilizando o Vercel!
