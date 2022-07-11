@@ -1,16 +1,12 @@
-# Pokedex
+# PokeBinds
 
-## ℹ Sobre o Projeto
-
-Feito durante a Formação NodeJS com o intuito de aprender VueJS para criação de aplicações web e consumo de APIs.
-
-Nesse caso, a API consumida foi a PokeAPI para criação de uma Pokedex
+## Sobre o Projeto:
+Teste para Binds. Sistema conectado com a API PokeApi que exibe lista completa de Pokémons ou lista através de busca/filtro pré-selecionado pelo usuário.
 
 ## 🛠 Tecnologias
 
 - VueJS
 - Axios
-- Bulma
 
 ## 🌐 Resultado
 
