@@ -24,6 +24,7 @@ Obs: Ao rodar o projeto será exibida uma versão com CSS atualizada, exibindo u
 
 - NPM ou Yarn
 - Vue
+- Bulma
 
 ### Rodando
 
