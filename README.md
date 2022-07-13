@@ -7,6 +7,7 @@ Teste para Binds. Sistema conectado com a API PokeApi que exibe lista completa d
 
 - VueJS
 - Axios
+- Bulma
 
 ## 🌐 Resultado
 
@@ -24,7 +25,6 @@ Obs: Ao rodar o projeto será exibida uma versão com CSS atualizada, exibindo u
 
 - NPM ou Yarn
 - Vue
-- Bulma
 
 ### Rodando
 
