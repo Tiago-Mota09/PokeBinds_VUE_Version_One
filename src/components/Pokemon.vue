@@ -93,69 +93,6 @@ html, body, footer {
   margin: 0;
   font-family: rubik;
 }
-  .steel {
-  background-color: #f4f4f4;
-}
-
-.fire {
-  background-color: #FDDFDF;
-}
-
-.grass {
-  background-color: #DEFDE0;
-}
-
-.electric {
-  background-color: #FCF7DE;
-}
-
-.water, .ice {
-  background-color: #DEF3FD;
-}
-
-.ground {
-  background-color: #f4e7da;
-}
-
-.rock {
-  background-color: #d5d5d4;
-}
-
-.fairy {
-  background-color: #fceaff;
-}
-
-.poison {
-  background-color: #c4add6;
-}
-
-.bug {
-  background-color: #f8d5a3;
-}
-
-.dragon {
-  background-color: #97b3e6;
-}
-
-.psychic {
-  background-color: #eaeda1;
-}
-
-.flying {
-  background-color: #F5F5F5;
-}
-
-.fighting {
-  background-color: #E6E0D4;
-}
-
-.ghost {
-  background-color: #ebc2c2;
-}
-
-.normal {
-  background-color: #F5F5F5;
-}
 .footer{
   color: rgb(179, 94, 94);
 }
